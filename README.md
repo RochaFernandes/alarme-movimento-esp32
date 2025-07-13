@@ -20,6 +20,7 @@ Sempre que o movimento é identificado, o ESP32 aciona o buzzer automaticamente 
 
 ## 🖼️ Imagem do projeto
 
+![Estação Climática funcionando](./Imagem.jpg)
 
 ## 🧠 Aprendizados envolvidos
 
